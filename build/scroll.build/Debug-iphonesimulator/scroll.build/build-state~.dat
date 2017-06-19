@@ -1,0 +1,256 @@
+Tscroll
+v7
+r0
+t519336015.157435
+cCheck dependencies
+cProcessInfoPlistFile /Users/sbarghshoon/Desktop/scroll/build/Debug-iphonesimulator/scroll.app/Info.plist scroll-Info.plist
+cCompileXIB /Users/sbarghshoon/Desktop/scroll/MainWindow.xib
+cCompileXIB /Users/sbarghshoon/Desktop/scroll/scrollViewController.xib
+cProcessPCH /var/folders/Io/IojWFqsRFLGgU3G1V3dF4++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/scroll_Prefix-gprndiuptqgldeflbkijdpjxkyhg/scroll_Prefix.pch.gch scroll_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/scroll.build/Debug-iphonesimulator/scroll.build/Objects-normal/i386/main.o /Users/sbarghshoon/Desktop/scroll/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/scroll.build/Debug-iphonesimulator/scroll.build/Objects-normal/i386/scrollAppDelegate.o /Users/sbarghshoon/Desktop/scroll/Classes/scrollAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/scroll.build/Debug-iphonesimulator/scroll.build/Objects-normal/i386/scrollViewController.o /Users/sbarghshoon/Desktop/scroll/Classes/scrollViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/sbarghshoon/Desktop/scroll/build/Debug-iphonesimulator/scroll.app/scroll normal i386
+cGenerateDSYMFile /Users/sbarghshoon/Desktop/scroll/build/Debug-iphonesimulator/scroll.app.dSYM /Users/sbarghshoon/Desktop/scroll/build/Debug-iphonesimulator/scroll.app/scroll
+cTouch /Users/sbarghshoon/Desktop/scroll/build/Debug-iphonesimulator/scroll.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D5C9B4E0000000000000110
+t1297914702
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54CFFA00000000002999B0
+t1297403898
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5615B40000000000000AA1
+t1297487284
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5616030000000000766870
+t1297487363
+s7759984
+
+N/Users/sbarghshoon/Desktop/scroll/Classes/scrollAppDelegate.h
+c000000005944378200000000000001DC
+t1497642882
+s476
+i<UIKit/UIKit.h>
+
+N/Users/sbarghshoon/Desktop/scroll/Classes/scrollAppDelegate.m
+c00000000594437820000000000000AA8
+t1497642882
+s2728
+i"scrollAppDelegate.h"
+i"scrollViewController.h"
+
+N/Users/sbarghshoon/Desktop/scroll/Classes/scrollViewController.h
+c000000005944378200000000000000EE
+t1497642882
+s238
+i<UIKit/UIKit.h>
+
+N/Users/sbarghshoon/Desktop/scroll/Classes/scrollViewController.m
+c00000000594438C700000000000009F0
+t1497643207
+s2544
+i"scrollViewController.h"
+
+N/Users/sbarghshoon/Desktop/scroll/MainWindow.xib
+c00000000594437820000000000004E1D
+t1497642882
+s19997
+
+N/Users/sbarghshoon/Desktop/scroll/build/Debug-iphonesimulator/scroll.app
+t1497643215
+s238
+
+N/Users/sbarghshoon/Desktop/scroll/build/Debug-iphonesimulator/scroll.app.dSYM
+t1497643215
+s102
+
+N/Users/sbarghshoon/Desktop/scroll/build/Debug-iphonesimulator/scroll.app/Info.plist
+t1497643213
+s587
+
+N/Users/sbarghshoon/Desktop/scroll/build/Debug-iphonesimulator/scroll.app/MainWindow.nib
+t1497643213
+s1679
+
+N/Users/sbarghshoon/Desktop/scroll/build/Debug-iphonesimulator/scroll.app/PkgInfo
+t1497643213
+s8
+
+N/Users/sbarghshoon/Desktop/scroll/build/Debug-iphonesimulator/scroll.app/scroll
+t1497643215
+s18080
+
+N/Users/sbarghshoon/Desktop/scroll/build/Debug-iphonesimulator/scroll.app/scrollViewController.nib
+t1497643213
+s1269
+
+N/Users/sbarghshoon/Desktop/scroll/build/scroll.build/Debug-iphonesimulator/scroll.build/Objects-normal/i386/main.o
+t1497643215
+s6300
+
+N/Users/sbarghshoon/Desktop/scroll/build/scroll.build/Debug-iphonesimulator/scroll.build/Objects-normal/i386/scroll.LinkFileList
+c00000000594438CD0000000000000176
+t1497643213
+s374
+
+N/Users/sbarghshoon/Desktop/scroll/build/scroll.build/Debug-iphonesimulator/scroll.build/Objects-normal/i386/scrollAppDelegate.o
+t1497643215
+s51248
+
+N/Users/sbarghshoon/Desktop/scroll/build/scroll.build/Debug-iphonesimulator/scroll.build/Objects-normal/i386/scrollViewController.o
+t1497643215
+s43772
+
+N/Users/sbarghshoon/Desktop/scroll/main.m
+c0000000059443782000000000000016B
+t1497642882
+s363
+i<UIKit/UIKit.h>
+
+N/Users/sbarghshoon/Desktop/scroll/scrollViewController.xib
+c00000000594437820000000000001A41
+t1497642882
+s6721
+
+N/Users/sbarghshoon/Desktop/scroll/scroll_Prefix.pch
+c000000005944378200000000000000B5
+t1497642882
+s181
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/var/folders/Io/IojWFqsRFLGgU3G1V3dF4++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/scroll_Prefix-gprndiuptqgldeflbkijdpjxkyhg/scroll_Prefix.pch.gch
+t1497643215
+s15814064
+
+Nscroll-Info.plist
+c0000000059443782000000000000038D
+t1497642882
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies519336013#519336013#0(0"0(0#1#0"8247620834010738688#0"0#
+
+CCompileC build/scroll.build/Debug-iphonesimulator/scroll.build/Objects-normal/i386/main.o /Users/sbarghshoon/Desktop/scroll/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s519336015.076428
+e519336015.111463
+r1
+xCompileC
+xbuild/scroll.build/Debug-iphonesimulator/scroll.build/Objects-normal/i386/main.o
+x/Users/sbarghshoon/Desktop/scroll/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@48"Compile /Users/sbarghshoon/Desktop/scroll/main.m519336015#519336015#0(0"0(0#0#40"/Users/sbarghshoon/Desktop/scroll/main.m8612527008#1839"    cd /Users/sbarghshoon/Desktop/scroll    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/sbarghshoon/Desktop/scroll/build/scroll.build/Debug-iphonesimulator/scroll.build/scroll-generated-files.hmap -I/Users/sbarghshoon/Desktop/scroll/build/scroll.build/Debug-iphonesimulator/scroll.build/scroll-own-target-headers.hmap -I/Users/sbarghshoon/Desktop/scroll/build/scroll.build/Debug-iphonesimulator/scroll.build/scroll-all-target-headers.hmap -iquote /Users/sbarghshoon/Desktop/scroll/build/scroll.build/Debug-iphonesimulator/scroll.build/scroll-project-headers.hmap -F/Users/sbarghshoon/Desktop/scroll/build/Debug-iphonesimulator -I/Users/sbarghshoon/Desktop/scroll/build/Debug-iphonesimulator/include -I/Users/sbarghshoon/Desktop/scroll/build/scroll.build/Debug-iphonesimulator/scroll.build/DerivedSources/i386 -I/Users/sbarghshoon/Desktop/scroll/build/scroll.build/Debug-iphonesimulator/scroll.build/DerivedSources -include /var/folders/Io/IojWFqsRFLGgU3G1V3dF4++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/scroll_Prefix-gprndiuptqgldeflbkijdpjxkyhg/scroll_Prefix.pch -c /Users/sbarghshoon/Desktop/scroll/main.m -o /Users/sbarghshoon/Desktop/scroll/build/scroll.build/Debug-iphonesimulator/scroll.build/Objects-normal/i386/main.o0#
+
+CCompileC build/scroll.build/Debug-iphonesimulator/scroll.build/Objects-normal/i386/scrollAppDelegate.o /Users/sbarghshoon/Desktop/scroll/Classes/scrollAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s519336015.077907
+e519336015.126163
+r1
+xCompileC
+xbuild/scroll.build/Debug-iphonesimulator/scroll.build/Objects-normal/i386/scrollAppDelegate.o
+x/Users/sbarghshoon/Desktop/scroll/Classes/scrollAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/sbarghshoon/Desktop/scroll/Classes/scrollAppDelegate.m519336015#519336015#0(0"0(0#0#61"/Users/sbarghshoon/Desktop/scroll/Classes/scrollAppDelegate.m8603400128#1873"    cd /Users/sbarghshoon/Desktop/scroll    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/sbarghshoon/Desktop/scroll/build/scroll.build/Debug-iphonesimulator/scroll.build/scroll-generated-files.hmap -I/Users/sbarghshoon/Desktop/scroll/build/scroll.build/Debug-iphonesimulator/scroll.build/scroll-own-target-headers.hmap -I/Users/sbarghshoon/Desktop/scroll/build/scroll.build/Debug-iphonesimulator/scroll.build/scroll-all-target-headers.hmap -iquote /Users/sbarghshoon/Desktop/scroll/build/scroll.build/Debug-iphonesimulator/scroll.build/scroll-project-headers.hmap -F/Users/sbarghshoon/Desktop/scroll/build/Debug-iphonesimulator -I/Users/sbarghshoon/Desktop/scroll/build/Debug-iphonesimulator/include -I/Users/sbarghshoon/Desktop/scroll/build/scroll.build/Debug-iphonesimulator/scroll.build/DerivedSources/i386 -I/Users/sbarghshoon/Desktop/scroll/build/scroll.build/Debug-iphonesimulator/scroll.build/DerivedSources -include /var/folders/Io/IojWFqsRFLGgU3G1V3dF4++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/scroll_Prefix-gprndiuptqgldeflbkijdpjxkyhg/scroll_Prefix.pch -c /Users/sbarghshoon/Desktop/scroll/Classes/scrollAppDelegate.m -o /Users/sbarghshoon/Desktop/scroll/build/scroll.build/Debug-iphonesimulator/scroll.build/Objects-normal/i386/scrollAppDelegate.o0#
+
+CCompileC build/scroll.build/Debug-iphonesimulator/scroll.build/Objects-normal/i386/scrollViewController.o /Users/sbarghshoon/Desktop/scroll/Classes/scrollViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s519336015.078930
+e519336015.128721
+r1
+xCompileC
+xbuild/scroll.build/Debug-iphonesimulator/scroll.build/Objects-normal/i386/scrollViewController.o
+x/Users/sbarghshoon/Desktop/scroll/Classes/scrollViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/sbarghshoon/Desktop/scroll/Classes/scrollViewController.m519336015#519336015#0(0"0(0#0#64"/Users/sbarghshoon/Desktop/scroll/Classes/scrollViewController.m8614423616#1879"    cd /Users/sbarghshoon/Desktop/scroll    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/sbarghshoon/Desktop/scroll/build/scroll.build/Debug-iphonesimulator/scroll.build/scroll-generated-files.hmap -I/Users/sbarghshoon/Desktop/scroll/build/scroll.build/Debug-iphonesimulator/scroll.build/scroll-own-target-headers.hmap -I/Users/sbarghshoon/Desktop/scroll/build/scroll.build/Debug-iphonesimulator/scroll.build/scroll-all-target-headers.hmap -iquote /Users/sbarghshoon/Desktop/scroll/build/scroll.build/Debug-iphonesimulator/scroll.build/scroll-project-headers.hmap -F/Users/sbarghshoon/Desktop/scroll/build/Debug-iphonesimulator -I/Users/sbarghshoon/Desktop/scroll/build/Debug-iphonesimulator/include -I/Users/sbarghshoon/Desktop/scroll/build/scroll.build/Debug-iphonesimulator/scroll.build/DerivedSources/i386 -I/Users/sbarghshoon/Desktop/scroll/build/scroll.build/Debug-iphonesimulator/scroll.build/DerivedSources -include /var/folders/Io/IojWFqsRFLGgU3G1V3dF4++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/scroll_Prefix-gprndiuptqgldeflbkijdpjxkyhg/scroll_Prefix.pch -c /Users/sbarghshoon/Desktop/scroll/Classes/scrollViewController.m -o /Users/sbarghshoon/Desktop/scroll/build/scroll.build/Debug-iphonesimulator/scroll.build/Objects-normal/i386/scrollViewController.o0#
+
+CCompileXIB /Users/sbarghshoon/Desktop/scroll/MainWindow.xib
+s519336013.517170
+e519336013.768881
+r1
+xCompileXIB
+x/Users/sbarghshoon/Desktop/scroll/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib519336013#519336013#0(0"0(0#0#48"/Users/sbarghshoon/Desktop/scroll/MainWindow.xib8614478688#554"    cd /Users/sbarghshoon/Desktop/scroll    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/sbarghshoon/Desktop/scroll/build/Debug-iphonesimulator/scroll.app/MainWindow.nib /Users/sbarghshoon/Desktop/scroll/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/sbarghshoon/Desktop/scroll/scrollViewController.xib
+s519336013.518026
+e519336013.863791
+r1
+xCompileXIB
+x/Users/sbarghshoon/Desktop/scroll/scrollViewController.xib
+lSLF07#2@35"CompileXIB scrollViewController.xib519336013#519336013#0(0"0(0#0#58"/Users/sbarghshoon/Desktop/scroll/scrollViewController.xib8614316352#574"    cd /Users/sbarghshoon/Desktop/scroll    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/sbarghshoon/Desktop/scroll/build/Debug-iphonesimulator/scroll.app/scrollViewController.nib /Users/sbarghshoon/Desktop/scroll/scrollViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CGenerateDSYMFile /Users/sbarghshoon/Desktop/scroll/build/Debug-iphonesimulator/scroll.app.dSYM /Users/sbarghshoon/Desktop/scroll/build/Debug-iphonesimulator/scroll.app/scroll
+s519336015.144377
+e519336015.155360
+r1
+xGenerateDSYMFile
+x/Users/sbarghshoon/Desktop/scroll/build/Debug-iphonesimulator/scroll.app.dSYM
+x/Users/sbarghshoon/Desktop/scroll/build/Debug-iphonesimulator/scroll.app/scroll
+lSLF07#2@106"GenerateDSYMFile build/Debug-iphonesimulator/scroll.app.dSYM build/Debug-iphonesimulator/scroll.app/scroll519336015#519336015#0(0"0(0#0#79"/Users/sbarghshoon/Desktop/scroll/build/Debug-iphonesimulator/scroll.app/scroll8612527456#365"    cd /Users/sbarghshoon/Desktop/scroll    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/sbarghshoon/Desktop/scroll/build/Debug-iphonesimulator/scroll.app/scroll -o /Users/sbarghshoon/Desktop/scroll/build/Debug-iphonesimulator/scroll.app.dSYM0#
+
+CLd /Users/sbarghshoon/Desktop/scroll/build/Debug-iphonesimulator/scroll.app/scroll normal i386
+s519336015.128772
+e519336015.144315
+r1
+xLd
+x/Users/sbarghshoon/Desktop/scroll/build/Debug-iphonesimulator/scroll.app/scroll
+xnormal
+xi386
+lSLF07#2@84"Link /Users/sbarghshoon/Desktop/scroll/build/Debug-iphonesimulator/scroll.app/scroll519336015#519336015#0(0"0(0#0#0"8613784992#870"    cd /Users/sbarghshoon/Desktop/scroll    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/Users/sbarghshoon/Desktop/scroll/build/Debug-iphonesimulator -F/Users/sbarghshoon/Desktop/scroll/build/Debug-iphonesimulator -filelist /Users/sbarghshoon/Desktop/scroll/build/scroll.build/Debug-iphonesimulator/scroll.build/Objects-normal/i386/scroll.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/sbarghshoon/Desktop/scroll/build/Debug-iphonesimulator/scroll.app/scroll0#
+
+CProcessInfoPlistFile /Users/sbarghshoon/Desktop/scroll/build/Debug-iphonesimulator/scroll.app/Info.plist scroll-Info.plist
+s519336013.510872
+e519336013.517107
+r1
+xProcessInfoPlistFile
+x/Users/sbarghshoon/Desktop/scroll/build/Debug-iphonesimulator/scroll.app/Info.plist
+xscroll-Info.plist
+lSLF07#2@25"Process scroll-Info.plist519336013#519336013#0(0"0(0#0#51"/Users/sbarghshoon/Desktop/scroll/scroll-Info.plist32369824192659568#461"    cd /Users/sbarghshoon/Desktop/scroll    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility scroll-Info.plist -genpkginfo /Users/sbarghshoon/Desktop/scroll/build/Debug-iphonesimulator/scroll.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/sbarghshoon/Desktop/scroll/build/Debug-iphonesimulator/scroll.app/Info.plist0#
+
+CProcessPCH /var/folders/Io/IojWFqsRFLGgU3G1V3dF4++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/scroll_Prefix-gprndiuptqgldeflbkijdpjxkyhg/scroll_Prefix.pch.gch scroll_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s519336013.864018
+e519336015.076082
+r1
+xProcessPCH
+x/var/folders/Io/IojWFqsRFLGgU3G1V3dF4++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/scroll_Prefix-gprndiuptqgldeflbkijdpjxkyhg/scroll_Prefix.pch.gch
+xscroll_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@28"Precompile scroll_Prefix.pch519336013#519336015#0(0"0(0#0#51"/Users/sbarghshoon/Desktop/scroll/scroll_Prefix.pch8612152704#1737"    cd /Users/sbarghshoon/Desktop/scroll    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/sbarghshoon/Desktop/scroll/build/scroll.build/Debug-iphonesimulator/scroll.build/scroll-generated-files.hmap -I/Users/sbarghshoon/Desktop/scroll/build/scroll.build/Debug-iphonesimulator/scroll.build/scroll-own-target-headers.hmap -I/Users/sbarghshoon/Desktop/scroll/build/scroll.build/Debug-iphonesimulator/scroll.build/scroll-all-target-headers.hmap -iquote /Users/sbarghshoon/Desktop/scroll/build/scroll.build/Debug-iphonesimulator/scroll.build/scroll-project-headers.hmap -F/Users/sbarghshoon/Desktop/scroll/build/Debug-iphonesimulator -I/Users/sbarghshoon/Desktop/scroll/build/Debug-iphonesimulator/include -I/Users/sbarghshoon/Desktop/scroll/build/scroll.build/Debug-iphonesimulator/scroll.build/DerivedSources/i386 -I/Users/sbarghshoon/Desktop/scroll/build/scroll.build/Debug-iphonesimulator/scroll.build/DerivedSources -c /Users/sbarghshoon/Desktop/scroll/scroll_Prefix.pch -o /var/folders/Io/IojWFqsRFLGgU3G1V3dF4++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/scroll_Prefix-gprndiuptqgldeflbkijdpjxkyhg/scroll_Prefix.pch.gch0#
+
+CTouch /Users/sbarghshoon/Desktop/scroll/build/Debug-iphonesimulator/scroll.app
+s519336015.155417
+e519336015.157411
+r1
+xTouch
+x/Users/sbarghshoon/Desktop/scroll/build/Debug-iphonesimulator/scroll.app
+lSLF07#2@78"Touch /Users/sbarghshoon/Desktop/scroll/build/Debug-iphonesimulator/scroll.app519336015#519336015#0(0"0(0#0#0"8604525152#267"    cd /Users/sbarghshoon/Desktop/scroll    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/sbarghshoon/Desktop/scroll/build/Debug-iphonesimulator/scroll.app0#
+
